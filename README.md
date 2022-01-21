@@ -1,7 +1,9 @@
 # Contacts :
 
 ##  list of contacts :
-
+`add new cantact with press +`
+`remove a contact with press -`
+`also you can change color mode : dark or light`
 - [x] Dark mode 
 - [ ] Light mode
 
@@ -31,7 +33,7 @@
 
 
 
-## Removie contact :
+## Remove contact :
 
 - [x] Dark mode 
 - [ ] Light mode
